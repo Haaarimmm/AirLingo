@@ -1,6 +1,5 @@
-# AirLingo
+# 🏆에어링고(AirLingo) - SSAFY 공통 프로젝트(웹 기술 부문) 1위🏆
 <img src="https://hackmd.io/_uploads/BkhSOei33.png" width="100%" height="300px"/>
-
 
 ## 📖목차
 - [README](#readme)
